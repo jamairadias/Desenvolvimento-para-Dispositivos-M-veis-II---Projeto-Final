@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133245342855",
+    "project_id": "agendamentofirebasecompleto",
+    "storage_bucket": "agendamentofirebasecompleto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133245342855:android:fbdfe704edbfaa15291422",
+        "android_client_info": {
+          "package_name": "com.example.agendamento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ivzyv-ruByg5Mm4pnczGSGWQXYCZxLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

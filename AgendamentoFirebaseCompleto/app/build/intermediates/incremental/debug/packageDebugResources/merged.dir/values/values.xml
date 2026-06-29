@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agendamento Firebase</string>
+    <string name="gcm_defaultSenderId" translatable="false">133245342855</string>
+    <string name="google_api_key" translatable="false">AIzaSyC5Ivzyv-ruByg5Mm4pnczGSGWQXYCZxLA</string>
+    <string name="google_app_id" translatable="false">1:133245342855:android:fbdfe704edbfaa15291422</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC5Ivzyv-ruByg5Mm4pnczGSGWQXYCZxLA</string>
+    <string name="google_storage_bucket" translatable="false">agendamentofirebasecompleto.firebasestorage.app</string>
+    <string name="project_id" translatable="false">agendamentofirebasecompleto</string>
+    <style name="Theme.Agendamento" parent="android:Theme.Material.Light.NoActionBar">
+        
+    </style>
+</resources>

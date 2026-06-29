@@ -1,0 +1,3 @@
+*.hprof
+*/app/google-services.json
+
